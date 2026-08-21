@@ -1,0 +1,61 @@
+id,data,processo,produto,operador,turno,unidades,unidades_retrabalho,horas_retrabalho,custo_hora,custo_material,causa,ticket_hora
+ORD-001,2026-07-20,Montagem,Produto A,João,manhã,100,0,0,35,0,,90
+ORD-002,2026-07-20,Montagem,Produto A,João,manhã,80,12,3.5,35,45,Ajuste dimensional,90
+ORD-003,2026-07-20,Pintura,Produto B,Maria,tarde,60,8,2.0,32,80,Defeito de pintura,85
+ORD-004,2026-07-20,Usinagem,Produto C,Pedro,manhã,40,0,0,40,0,,95
+ORD-005,2026-07-21,Montagem,Produto A,João,tarde,90,5,1.5,35,20,Falta de torque,90
+ORD-006,2026-07-21,Solda,Produto D,Ana,manhã,50,15,4.0,38,120,Porosidade,88
+ORD-007,2026-07-21,Pintura,Produto B,Maria,noite,70,0,0,32,0,,85
+ORD-008,2026-07-21,Usinagem,Produto C,Pedro,tarde,55,10,3.0,40,60,Tolerância fora,95
+ORD-009,2026-07-22,Montagem,Produto A,Carla,manhã,110,0,0,35,0,,90
+ORD-010,2026-07-22,Solda,Produto D,Ana,tarde,45,6,2.5,38,50,Porosidade,88
+ORD-011,2026-07-22,Pintura,Produto B,Maria,manhã,65,9,2.2,32,70,Defeito de pintura,85
+ORD-012,2026-07-22,Usinagem,Produto C,Pedro,noite,48,0,0,40,0,,95
+ORD-013,2026-07-23,Montagem,Produto A,João,manhã,95,7,2.0,35,25,Ajuste dimensional,90
+ORD-014,2026-07-23,Solda,Produto D,Ana,manhã,52,0,0,38,0,,88
+ORD-015,2026-07-23,Pintura,Produto B,Maria,tarde,75,11,2.8,32,95,Contaminação,85
+ORD-016,2026-07-23,Usinagem,Produto C,Pedro,tarde,42,4,1.2,40,30,Ferramenta desgastada,95
+ORD-017,2026-07-24,Montagem,Produto A,Carla,manhã,100,0,0,35,0,,90
+ORD-018,2026-07-24,Solda,Produto D,Ana,tarde,48,8,3.0,38,70,Alinhamento,88
+ORD-019,2026-07-24,Pintura,Produto B,Maria,noite,68,0,0,32,0,,85
+ORD-020,2026-07-24,Usinagem,Produto C,Pedro,manhã,50,6,1.8,40,40,Tolerância fora,95
+ORD-021,2026-07-25,Montagem,Produto A,João,tarde,85,14,4.0,35,55,Ajuste dimensional,90
+ORD-022,2026-07-25,Solda,Produto D,Ana,manhã,55,0,0,38,0,,88
+ORD-023,2026-07-25,Pintura,Produto B,Maria,manhã,72,5,1.5,32,40,Defeito de pintura,85
+ORD-024,2026-07-25,Usinagem,Produto C,Pedro,noite,46,0,0,40,0,,95
+ORD-025,2026-07-27,Montagem,Produto A,Carla,manhã,105,3,1.0,35,15,Falta de torque,90
+ORD-026,2026-07-27,Solda,Produto D,Ana,tarde,50,10,3.5,38,90,Porosidade,88
+ORD-027,2026-07-27,Pintura,Produto B,Maria,tarde,80,0,0,32,0,,85
+ORD-028,2026-07-27,Usinagem,Produto C,Pedro,manhã,44,7,2.0,40,50,Ferramenta desgastada,95
+ORD-029,2026-07-28,Montagem,Produto A,João,manhã,92,0,0,35,0,,90
+ORD-030,2026-07-28,Solda,Produto D,Ana,noite,47,4,1.5,38,35,Alinhamento,88
+ORD-031,2026-07-28,Pintura,Produto B,Maria,manhã,66,12,3.0,32,100,Contaminação,85
+ORD-032,2026-07-28,Usinagem,Produto C,Pedro,tarde,52,0,0,40,0,,95
+ORD-033,2026-07-29,Montagem,Produto A,Carla,tarde,88,9,2.5,35,35,Ajuste dimensional,90
+ORD-034,2026-07-29,Solda,Produto D,Ana,manhã,53,0,0,38,0,,88
+ORD-035,2026-07-29,Pintura,Produto B,Maria,noite,70,6,1.8,32,55,Defeito de pintura,85
+ORD-036,2026-07-29,Usinagem,Produto C,Pedro,manhã,49,5,1.5,40,35,Tolerância fora,95
+ORD-037,2026-07-30,Montagem,Produto A,João,manhã,98,0,0,35,0,,90
+ORD-038,2026-07-30,Solda,Produto D,Ana,tarde,51,7,2.8,38,65,Porosidade,88
+ORD-039,2026-07-30,Pintura,Produto B,Maria,manhã,74,0,0,32,0,,85
+ORD-040,2026-07-30,Usinagem,Produto C,Pedro,noite,45,8,2.2,40,45,Ferramenta desgastada,95
+ORD-041,2026-07-31,Montagem,Produto A,Carla,manhã,102,4,1.2,35,18,Falta de torque,90
+ORD-042,2026-07-31,Solda,Produto D,Ana,manhã,49,0,0,38,0,,88
+ORD-043,2026-07-31,Pintura,Produto B,Maria,tarde,69,10,2.5,32,85,Contaminação,85
+ORD-044,2026-07-31,Usinagem,Produto C,Pedro,tarde,51,0,0,40,0,,95
+ORD-045,2026-08-03,Montagem,Produto A,João,tarde,87,11,3.2,35,48,Ajuste dimensional,90
+ORD-046,2026-08-03,Solda,Produto D,Ana,manhã,54,5,2.0,38,42,Alinhamento,88
+ORD-047,2026-08-03,Pintura,Produto B,Maria,noite,71,0,0,32,0,,85
+ORD-048,2026-08-03,Usinagem,Produto C,Pedro,manhã,47,3,1.0,40,25,Tolerância fora,95
+ORD-049,2026-08-04,Montagem,Produto A,Carla,manhã,96,0,0,35,0,,90
+ORD-050,2026-08-04,Solda,Produto D,Ana,tarde,50,9,3.2,38,75,Porosidade,88
+ORD-051,2026-08-04,Pintura,Produto B,Maria,manhã,73,7,2.0,32,60,Defeito de pintura,85
+ORD-052,2026-08-04,Usinagem,Produto C,Pedro,noite,48,0,0,40,0,,95
+ORD-053,2026-08-05,Montagem,Produto A,João,manhã,91,6,1.8,35,28,Falta de torque,90
+ORD-054,2026-08-05,Solda,Produto D,Ana,noite,46,0,0,38,0,,88
+ORD-055,2026-08-05,Pintura,Produto B,Maria,tarde,67,8,2.3,32,72,Contaminação,85
+ORD-056,2026-08-05,Usinagem,Produto C,Pedro,manhã,50,4,1.3,40,32,Ferramenta desgastada,95
+ORD-057,2026-08-06,Montagem,Produto A,Carla,tarde,99,0,0,35,0,,90
+ORD-058,2026-08-06,Solda,Produto D,Ana,manhã,52,6,2.2,38,48,Alinhamento,88
+ORD-059,2026-08-06,Pintura,Produto B,Maria,manhã,76,0,0,32,0,,85
+ORD-060,2026-08-06,Usinagem,Produto C,Pedro,tarde,43,9,2.5,40,55,Tolerância fora,95
