@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "diagnostico-retrabalho"
+version = "1.0.0"
+description = "Diagnóstico de retrabalho: custo de não-qualidade + capacidade consumida duas vezes"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "Matheus Scherer", email = "contatomatheusscherer@gmail.com" }]
+keywords = ["python", "pandas", "retrabalho", "qualidade", "custo", "operacao"]
+dependencies = [
+    "pandas>=2.2.0",
+    "numpy>=1.26.0",
+    "openpyxl>=3.1.0",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0.0", "pytest-cov>=5.0.0"]
+
+[project.scripts]
+diagnostico-retrabalho = "diagnostico_retrabalho.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
