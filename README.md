@@ -137,4 +137,4 @@ Este mostra **dinheiro**:
 **Matheus Scherer** · Porto Alegre, RS  
 Diagnóstico de custo operacional com Python
 
-[GitHub](https://github.com/matheusscherer) · [LinkedIn](https://linkedin.com/in/scherermatheus) · [Site](https://mtsch-site.vercel.app)
+[GitHub](https://github.com/matheusscherer) · [LinkedIn](https://linkedin.com/in/scherermatheus) · [Site](https://mtsch.vercel.app)
